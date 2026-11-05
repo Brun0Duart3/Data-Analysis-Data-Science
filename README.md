@@ -21,9 +21,3 @@ Endereço após ativação: https://brun0duart3.github.io/Data-Analysis-Data-Sci
 Os arquivos do site estão na raiz. `content.js` guarda a apresentação e os resumos; `original-content.js`, os textos e gráficos dos estudos; `assets/`, as imagens. Ao acrescentar estudos, atualize também as coleções e contagens de `app.js` e crie a página correspondente.
 
 O suporte a outros idiomas permanece desativado (`settings.multilingual = false`).
-
-## Executar localmente
-
-Execute `python -m http.server 8000` na pasta e abra http://localhost:8000/.
-
-Verificação de sintaxe: `node --check app.js`, `node --check content.js` e `node --check original-content.js`.
