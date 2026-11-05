@@ -1,23 +1,9 @@
-# Data-Analysis-Data-Science
+# Portfólio de Dados — Bruno Santos
 
 Portfólio de estudos em Ciência de Dados, com artigos, projetos e análises de dados públicos.
 
-## Site
+## Projetos
 
-Portfólio estático em HTML, CSS e JavaScript, com três estudos completos e 30 gráficos incorporados.
-
-- Estudo 1: Google Sheets — Aroma Café.
-- Estudo 2: Power BI — Airbnb.
-- Estudo 3: Excel — coortes e RFM.
-
-## Publicar no GitHub Pages
-
-Em Settings → Pages, escolha Deploy from a branch, branch main e pasta /(root), e salve.
-
-Endereço após ativação: https://brun0duart3.github.io/Data-Analysis-Data-Science/
-
-## Atualização
-
-Os arquivos do site estão na raiz. `content.js` guarda a apresentação e os resumos; `original-content.js`, os textos e gráficos dos estudos; `assets/`, as imagens. Ao acrescentar estudos, atualize também as coleções e contagens de `app.js` e crie a página correspondente.
-
-O suporte a outros idiomas permanece desativado (`settings.multilingual = false`).
+- [Aroma Café — Análise de Dados · Google Sheets](Aroma_Cafe-Analise_de_Dados-Google_Sheets/)
+- [Airbnb Nova York — Análise de Dados · Power BI](Airbnb_Nova_York-Analise_de_Dados-Power_BI/)
+- [Retenção e Segmentação RFM — Análise de Dados · Excel](Retencao_e_Segmentacao_RFM-Analise_de_Dados-Excel/)
